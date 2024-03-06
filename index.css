@@ -1,0 +1,24 @@
+ *{
+  margin: 0%;
+  padding: 0%;
+ }
+ 
+.h-full {
+  height: 100%;  
+}
+
+.w-full {
+  width: 100%;  
+}
+
+.w-screen {
+  width: 100vh; /* 100% of viewport width */
+}
+
+.h-screen {
+  height: 100vh; /* 100% of viewport height */
+}
+
+.object {
+  object-fit: cover;
+}
